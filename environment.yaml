@@ -1,0 +1,2 @@
+dependencies:
+  - pandas=0.25.0
