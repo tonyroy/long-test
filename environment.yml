@@ -68,9 +68,7 @@ dependencies:
   - liblief=0.9.0
   - libpng=1.6.37
   - libsodium=1.0.16
-  - libtiff=4.1.0
   - libxml2=2.9.9
-  - llvm-openmp=4.0.1
   - llvmlite=0.31.0
   - lz4-c=1.8.1.2
   - lzo=2.10
@@ -121,7 +119,6 @@ dependencies:
   - python=3.7.3
   - python-libarchive-c=2.8
   - python-louvain=0.13
-  - python.app=2
   - pytz=2019.3
   - pyyaml=5.3
   - pyzmq=18.1.1
@@ -132,8 +129,6 @@ dependencies:
   - ruamel_yaml=0.15.87
   - send2trash=1.5.0
   - serverfiles=0.3.0
-  - setuptools=46.0.0
-  - sip=4.19.8
   - six=1.14.0
   - soupsieve=2.0
   - tbb=2020.0
